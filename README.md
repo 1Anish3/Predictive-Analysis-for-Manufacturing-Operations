@@ -15,13 +15,19 @@ This repository contains a Flask RESTful API for predicting machine downtime bas
 
 ## Project Structure
 
-The project consists of the following Python files:
+The project consists of the following files:
 
 1. **Machine Learning Notebook**: 
    - This is a Jupyter Notebook where the machine learning model was developed and trained. It includes data preprocessing, model training, and evaluation steps.
 
 2. **Flask API**: 
    - This Python file (`app.py`) contains the Flask API implementation. It provides endpoints for uploading data, loading the pre-trained model, training the model, and making predictions.
+
+3. **CSV Files**:
+   - **manufacturing_data.csv**: This CSV file contains synthetic manufacturing data used for training the model. It includes columns such as `Machine_ID`, `Temperature`, `Run_Time`, and `Downtime_Flag`.
+   - **additional_data.csv**: This is an CSV file that can be used for further testing or training. It should follow the same structure as `manufacturing_data.csv`. It is tested by uploading on POSTMAN
+
+Both CSV files are required to be in the project directory for testing the API.
 
 ## Requirements
 
