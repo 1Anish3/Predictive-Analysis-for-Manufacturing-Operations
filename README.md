@@ -59,10 +59,11 @@ The project consists of the following Python files:
 
 7. **Access the API**:
    - The API will be running at `http://127.0.0.1:5000/`.
-  
 
 ![image](https://github.com/user-attachments/assets/aa09ebe7-01e0-40c3-a92d-814add9d8752)
 ![image](https://github.com/user-attachments/assets/87fa57f2-ef96-4814-801d-ed75e781c40f)
+![image](https://github.com/user-attachments/assets/d8c740bd-f7f9-4ecc-8903-2d60e08523f0)
 ![image](https://github.com/user-attachments/assets/81bc41ca-cecf-4371-8c22-f72c99b98822)
+
 
 
