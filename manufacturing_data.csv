@@ -1,0 +1,11 @@
+Machine_ID,Temperature,Run_Time,Downtime_Flag
+1,75,120,Yes
+2,80,150,No
+3,85,90,Yes
+4,70,200,No
+5,90,60,Yes
+6,78,110,No
+7,82,130,Yes
+8,76,140,No
+9,88,80,Yes
+10,74,160,No
